@@ -1,1 +1,1 @@
-# COVID19-stochastic-dymanic-model
+# Simulation - China matlab code
