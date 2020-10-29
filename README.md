@@ -1,1 +1,1 @@
-# COVID19-stochastic-dymanic-model
+# R code for the parameter estimations in the proposed dynamic model using MCMC
